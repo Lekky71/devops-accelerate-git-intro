@@ -1,1 +1,1 @@
-console.log('checked our');
+console.log('checked out');
