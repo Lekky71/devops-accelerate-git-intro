@@ -1,1 +1,2 @@
-console.log("welcome to introduction to version control!!!!!!");
+let intro = 'welcome to introduction to version control!!!!!!';
+console.log(intro);
